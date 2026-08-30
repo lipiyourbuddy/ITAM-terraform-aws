@@ -1,0 +1,7 @@
+.terraform/
+*.tfstate
+*.tfstate.*
+crash.log
+*.tfvars
+itam-terraform-key
+itam-terraform-key.pub
